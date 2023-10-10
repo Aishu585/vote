@@ -1,0 +1,44 @@
+.container{
+    width: 500px;
+    height: 400px;
+    background-color:rgb(171, 131, 200); 
+    
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px auto;
+
+}
+/* .input{
+    width: 400px;
+} */
+#input{
+    width: 400px;
+    height: 40px;
+    margin: 50px;
+    border-radius: 10px;
+    font-size: medium;
+    text-align: center;
+    border-style: groove;
+    /* border-color: blue; */
+    font-weight: bolder;
+    /* padding: 10px; */
+    /* background-color:; */
+}
+.bt{
+    width: 400px;
+    height: 40px;
+    margin: 50px;
+    font-weight: bolder;
+    border-radius: 10px;
+    /* border-style:groove; */
+    
+}
+#result{
+    width: 400px;
+    height: 40px;
+    margin: 30px ;
+    /* padding: 0px 30px ; */
+    text-align: center;
+    /* color: rgb(138, 30, 30) ; */
+    
+}
